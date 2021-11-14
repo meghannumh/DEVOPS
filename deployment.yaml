@@ -16,7 +16,7 @@ spec:
     spec: 
      containers:
       - name: helloworld
-        image: meghanahadimani/nodejs-app
+        image: meghanahadimani/jenkins:meghana-docker-image
         ports:
         - containerPort: 8000
         
